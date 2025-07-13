@@ -21,7 +21,7 @@ antenna_coords = [
 ]
 
 # Updated antenna numbers according to your specification
-antenna_numbers = ['09', '08', '07', '06', '03', '01']
+antenna_num = ['09', '08', '07', '06', '03', '01']
 
 # Use Antenna 07 (index 2) as the origin/center for our projection
 center_lon, center_lat = antenna_coords[2]  # Antenna 07 coordinates
